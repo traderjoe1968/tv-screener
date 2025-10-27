@@ -1,5 +1,5 @@
 {
-  "name": "tradingview-screener",
+  "name": "tv-screener",
   "version": "1.0.0",
   "description": "A TypeScript/Node.js implementation of TradingView screener API client",
   "main": "dist/src/index.js",
@@ -23,7 +23,7 @@
     "LICENSE"
   ],
   "author": "",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.0.0",
     "@types/node-fetch": "^2.6.13",
